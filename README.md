@@ -7,21 +7,27 @@ Program ini dibuat menggunakan Python untuk mengelola data nilai mahasiswa mengg
 ---
 
 # Penjelasan Konsep Array
-Array adalah struktur data yang digunakan untuk menyimpan beberapa data dengan tipe yang sama dalam satu variabel.  
+Array adalah salah satu **struktur data dasar dalam ilmu komputer** yang digunakan untuk menyimpan sekumpulan elemen data dalam satu variabel. Setiap elemen dalam array biasanya memiliki **tipe data yang sama** dan dapat diakses menggunakan **indeks** yang menunjukkan posisi elemen tersebut dalam array.
 
-Dalam Python, array biasanya direpresentasikan menggunakan **list**. List memungkinkan kita menyimpan banyak nilai dalam satu variabel dan mengaksesnya menggunakan indeks.
+Menurut Encyclopaedia Britannica, struktur data merupakan cara penyimpanan dan pengorganisasian data agar dapat diakses dan diproses secara efisien. Salah satu bentuk struktur data yang paling sederhana adalah **array linear**, di mana elemen-elemen data disimpan secara berurutan dan diakses menggunakan nomor indeks.
 
-Pada program ini, array digunakan untuk:
-- Menyimpan 10 nilai mahasiswa
-- Mengolah data nilai untuk mencari nilai maksimum dan minimum
-- Menghitung rata-rata nilai
-- Menentukan jumlah mahasiswa yang lulus dan tidak lulus
+Array banyak digunakan dalam pemrograman karena memungkinkan penyimpanan banyak data dalam satu variabel serta memudahkan proses pengolahan data menggunakan perulangan atau operasi lainnya.
+
+Dalam bahasa pemrograman Python, konsep array biasanya diimplementasikan menggunakan **list**, yang dapat menyimpan banyak nilai dalam satu variabel dan diakses menggunakan indeks.
 
 Contoh penggunaan array pada program:
 
 ```python
 nilai_mahasiswa = []
-````
+```
+
+Pada program tugas ini, array digunakan untuk:
+
+* Menyimpan nilai mahasiswa
+* Menghitung nilai tertinggi dan terendah
+* Menghitung rata-rata nilai
+* Menentukan jumlah mahasiswa yang lulus dan tidak lulus
+
 
 ---
 
