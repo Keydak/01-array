@@ -1,4 +1,9 @@
+# 📘 MATA KULIAH STRUKTUR DATA
 
+| Nama | NIM | Kelas |
+|-----|-----|-----|
+| I Kadek Cri Bhaskara Wirawan Sutha | 2501010052 | A |
+---
 # Sistem Pengelolaan Nilai Mahasiswa
 
 ## Deskripsi Program
